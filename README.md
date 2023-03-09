@@ -1,2 +1,2 @@
-# css-slider
-CSS Slider
+# CSS Slider
+Slider created on CSS only
